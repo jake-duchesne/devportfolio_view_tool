@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-DevPortfolioViewTool::Renderer.copyright 'Jake Duchesne', 'All Rights Reserved'
+DevportfolioViewTool::Renderer.copyright 'Jake Duchesne', 'All Rights Reserved'
 ```
 
 ## Development
